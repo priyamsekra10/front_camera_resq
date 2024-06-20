@@ -1,0 +1,16 @@
+opencv-python
+tensorflow
+pandas
+tensorflow-hub
+pymongo
+pyfcm==2.0.2
+kafka-python
+numpy
+boto3
+python-dotenv
+dlib
+tqdm
+onnx
+onnxruntime
+YOLOv7
+moviepy
